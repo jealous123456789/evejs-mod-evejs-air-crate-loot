@@ -1,0 +1,44 @@
+{
+  "author": {
+    "id": "au-mvgf59rqpaue",
+    "keyId": "6d218baa968e",
+    "name": "普罗旺斯煎饼果子"
+  },
+  "category": "玩法",
+  "changelog": "",
+  "conflicts": [
+    "evejs-crate-opening"
+  ],
+  "delisted": false,
+  "description": "原生服务端AIR奖励箱子开箱只提供三钛合金，恢复正常奖励内容。",
+  "displayName": "AIR开箱奖励修复",
+  "downloadUrls": [
+    {
+      "mirror": "github",
+      "priority": 1,
+      "url": "https://github.com/jealous123456789/evejs-mod-evejs-air-crate-loot/releases/download/v1.1.0/evejs-air-crate-loot-1.1.0.zip"
+    }
+  ],
+  "evejsVersions": [
+    "261018.x",
+    "261028.x"
+  ],
+  "featured": false,
+  "highlights": [],
+  "history": [],
+  "id": "evejs-air-crate-loot",
+  "publishedAt": "2026-10-30",
+  "readme": [
+    "适用：EveJS 261018.x / 261028.x，51 类箱子、160 条奖励、106 个不同 typeID 在 261028 的 item registry 全部可解析；44 个蓝图类奖励全部有 singleton 标记，按 BPO 处理；"
+  ],
+  "repo": "https://github.com/jealous123456789/evejs-mod-evejs-air-crate-loot",
+  "requiresRestart": true,
+  "sha256": "16a35f2d13a3b7f8b2ba48fd4298bddf22d7e2d9686cb637077684d63cbff80f",
+  "sizeBytes": 23365,
+  "tags": [
+    "修复",
+    "箱子",
+    "AIR"
+  ],
+  "version": "1.1.0"
+}
